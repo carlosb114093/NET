@@ -1,0 +1,38 @@
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Proyecto final NET.exe
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Proyecto final NET.deps.json
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Proyecto final NET.runtimeconfig.json
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Proyecto final NET.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Proyecto final NET.pdb
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\refint\Proyecto final NET.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.pdb
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\ref\Proyecto final NET.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\.net\Proyecto final NET\Proyecto final NET\obj\Debug\net6.0\Proyecto final NET.csproj.CopyComplete

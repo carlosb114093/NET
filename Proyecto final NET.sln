@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto final NET", "Proyecto final NET\Proyecto final NET.csproj", "{02B5E323-1F48-42F3-AC81-88A04FDA1890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelo", "Modelo", "{3A4B224C-72D1-4687-8AE2-551408C41228}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vista", "Vista", "{51EF6D6B-9A9F-4C34-9956-5F6115CCF4BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controlador", "Controlador", "{8A9A54A2-F5B2-4ED0-9E67-5766821F88CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B5E323-1F48-42F3-AC81-88A04FDA1890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B5E323-1F48-42F3-AC81-88A04FDA1890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B5E323-1F48-42F3-AC81-88A04FDA1890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B5E323-1F48-42F3-AC81-88A04FDA1890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B05773-86C4-4604-8B98-06AACB5869DE}
+	EndGlobalSection
+EndGlobal
