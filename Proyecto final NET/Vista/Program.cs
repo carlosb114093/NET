@@ -99,33 +99,40 @@ namespace Proyecto_final_NET.Vista // Note: actual namespace depends on the proj
                     valido = controller.amountvalid(suma_billetes, entrada_producto);
                     if (valido == true)
                     {
-                        
+                        int residuo = 0;
+                        int res = 0;
                         Console.WriteLine("El producto seleccionado es: "+entrada_producto);
-                        int residuo = controller.residue(suma_billetes, entrada_producto);
+                        residuo = controller.Residue(suma_billetes, entrada_producto);
                         Console.WriteLine("Su devuelta es:");
-                        int res = residuo / 500;
+                        
+                        if (residuo >= 500) { 
+                        res = residuo / 500;
                         Console.WriteLine(res + " monedas de quinientos");
                         residuo = residuo % 500;
-                        if (residuo != 0)
+                        }
+                         if (residuo >=200 && residuo <500)
                         {
-                            res = residuo / 200;
+                            res = residuo / 200;                            
                             Console.WriteLine(res + " monedas de doscientos");
                             residuo = residuo % 200;
-                            if (residuo != 0)
-                            {
+                        }
+                        if (residuo >=100 && residuo < 200)
+                        {
                                 res = residuo / 100;
                                 Console.WriteLine(res + " monedas de cien");
                                 residuo = residuo % 100;
-                                if (residuo != 0)
-                                {
+                                
+                        }
+                        if (residuo >=50)
+                        {
+                                    Console.WriteLine("res"+residuo);
                                     res = residuo / 50;
                                     Console.WriteLine(res + " monedas de cincuenta");
 
-                                }
-
-                            }
-
                         }
+
+
+                        
 
 
 

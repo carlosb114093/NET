@@ -13,10 +13,12 @@ namespace Proyecto_final_NET.Controlador
     internal class Controller
     {
       public List<IProduct> ListaProductos { get; set; }
+        public List<IProduct> ListaProductos2 { get; set; }
 
-      public Controller()
+        public Controller()
         {
             ListaProductos = new List<IProduct>();
+            ListaProductos2 = new List<IProduct>();
 
             ListaProductos.Add(new Consumable("Cocacola",3000,1));
             ListaProductos.Add(new Consumable("Snacks",2500,10));
@@ -102,14 +104,14 @@ namespace Proyecto_final_NET.Controlador
             return valid;
         }
 
-        public int residue(int suma, string name)
+        public int Residue(int suma, string name, int res = 0)
         {
-            int res = 0;
+            
             foreach (IProduct product in ListaProductos)
             {
+                if(product.Name==name)
 
-                
-                    res = suma - product.Price;
+                return res = suma - product.Price;
                 
             }
             return res;
